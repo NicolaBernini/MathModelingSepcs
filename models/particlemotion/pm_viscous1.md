@@ -7,8 +7,8 @@ The Particle Motion in a Viscous Field
 
 [N1] The motion in a viscous environment directly relates 
 - Force 
--- Endogenous, i.e. Particle Initial Force 
--- Hexogenous, i.e. Forcefield 
+  - Endogenous, i.e. Particle Initial Force 
+  - Hexogenous, i.e. Forcefield 
 - Velocity 
 
 # Specifications 
